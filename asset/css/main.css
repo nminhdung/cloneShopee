@@ -949,10 +949,6 @@
   background-color: #f5f5f5;
 }
 
-.app__content {
-  padding-top: 36px;
-}
-
 .category {
   background-color: var(--white-color);
   border-radius: 2px;
@@ -1315,7 +1311,7 @@ i.home-product-item__like-icon-fill {
   content: "";
   position: absolute;
   left: 0;
-  bottom: -6px;
+  bottom: -5px;
   border-width: 0 21px 6px;
   border-style: solid;
   border-color: transparent rgba(255, 216, 64, 0.93) transparent
